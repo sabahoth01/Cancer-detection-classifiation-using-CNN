@@ -47,6 +47,10 @@ The models achieved the following accuracies on the test set:
 | Multi-Layer Perceptron        | 0.9916            |
 | Gradient Boosting             | 0.9832            |
 
+
+### Example of prediction with user imput validation:
+![image](https://github.com/user-attachments/assets/281a8000-401b-4044-b191-66ea50e7f337)
+
 ---
 
 ## Conclusion
